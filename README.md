@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Komi-San Bot es un de WhatsApp MD 24/7 creado por <a href="https://github.com/Android-Tec" target="_blank">ANDROID TECHNOLOGY</a> usando <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> y <a href="https://github.com/nodejs" target="_blank">Nodejs</a>
+Ruka-Chan Bot es un de WhatsApp MD 24/7 creado por <a href="https://github.com/Android-Tec" target="_blank">ANDROID TECHNOLOGY</a> usando <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> y <a href="https://github.com/nodejs" target="_blank">Nodejs</a>
 </p>
 
 ------
