@@ -1,6 +1,6 @@
 <h1 align="center">ᰔᩚ 𝗥𝗨𝗞𝗔-𝗖𝗛𝗔𝗡 𝗕𝗢𝗧 ᰔᩚ<br></h1>
 <p align="center">
-<img src="https://64.media.tumblr.com/7971c4e95a04a26c08318f21fcf95c21/abaf9da9244b467f-c2/s540x810/c52876d48233b4bd2795f62b2660951ace2b354f.gif" alt="animated" width="430" height="480" />
+<img src="https://64.media.tumblr.com/7971c4e95a04a26c08318f21fcf95c21/abaf9da9244b467f-c2/s540x810/c52876d48233b4bd2795f62b2660951ace2b354f.gif" alt="animated" width="420" height="480" />
 </p>
 
 <p align="center">
