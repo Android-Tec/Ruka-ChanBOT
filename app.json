@@ -1,0 +1,24 @@
+{
+  "name": "Komi-SanBOT",
+  "description": "Bot de whatsapp 24/7",
+  "repository": "https://github.com/Android-Tec/Komi-SanBOT",
+  "logo": "https://c.tenor.com/_Nmi-p_Z83AAAAAC/komi-cant-communicate-komi-san-comyushou-desu.gif",
+  "keywords": ["Android-Technology OFC"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
