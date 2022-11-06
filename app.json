@@ -1,8 +1,8 @@
 {
-  "name": "Komi-SanBOT",
+  "name": "Ruka-ChanBOT",
   "description": "Bot de whatsapp 24/7",
-  "repository": "https://github.com/Android-Tec/Komi-SanBOT",
-  "logo": "https://c.tenor.com/_Nmi-p_Z83AAAAAC/komi-cant-communicate-komi-san-comyushou-desu.gif",
+  "repository": "https://github.com/Android-Tec/Ruka-ChanBOT",
+  "logo": "https://64.media.tumblr.com/7971c4e95a04a26c08318f21fcf95c21/abaf9da9244b467f-c2/s540x810/c52876d48233b4bd2795f62b2660951ace2b354f.gif",
   "keywords": ["Android-Technology OFC"],
   "buildpacks": [
     {
